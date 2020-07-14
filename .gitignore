@@ -1,3 +1,5 @@
 /OSM/bin
 /OSM/obj
 /.idea
+/OSM.Tests/bin
+/OSM.Tests/obj
