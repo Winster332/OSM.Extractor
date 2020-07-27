@@ -1,4 +1,6 @@
 # OSM.Extractor
+Extract ways and nodes from *.osm file.
+https://www.openstreetmap.org
 
 ## How use?
 
