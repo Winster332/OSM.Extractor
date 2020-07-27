@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSM", "OSM\OSM.csproj", "{C9080BC6-D5F3-4970-B443-F1C3BE11923D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSM.Tests", "OSM.Tests\OSM.Tests.csproj", "{368C4471-B051-4B58-9872-877B348F72ED}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,9 +12,5 @@ Global
 		{C9080BC6-D5F3-4970-B443-F1C3BE11923D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9080BC6-D5F3-4970-B443-F1C3BE11923D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9080BC6-D5F3-4970-B443-F1C3BE11923D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{368C4471-B051-4B58-9872-877B348F72ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{368C4471-B051-4B58-9872-877B348F72ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{368C4471-B051-4B58-9872-877B348F72ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{368C4471-B051-4B58-9872-877B348F72ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

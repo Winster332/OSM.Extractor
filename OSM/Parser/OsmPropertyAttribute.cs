@@ -3,7 +3,7 @@ using System;
 namespace OSM.Parser
 {
 	[AttributeUsage(AttributeTargets.Property)]
-	public class OsmPropertyAttribute : Attribute
+	internal class OsmPropertyAttribute : Attribute
 	{
 		public string Name { get; set; }
 
